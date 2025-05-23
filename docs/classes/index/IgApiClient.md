@@ -1,4 +1,5 @@
-[instagram-private-api](../../README.md) / [index](../../modules/index.md) / IgApiClient
+[https://www.instagram.com/arturo_fernandez____?igsh=MXhreXkyN2xpbTR2](FeedFactory.md#directinbox)
+`DirectInboxFeed`](../feeds/DirectInboxFeed.md)](../../README.md) / [index](../../modules/index.md) / IgApiClient
 
 # Class: IgApiClient
 
